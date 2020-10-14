@@ -1,5 +1,5 @@
 # SDLC_Models
-**Waterfall SDLC Model**
+## Waterfall SDLC Model
 This SDLC model includes gradual execution of every stage completely
 
 *PROS*
@@ -12,7 +12,7 @@ This SDLC model includes gradual execution of every stage completely
 * Not the best choice for complex and object-oriented projects
 * High risks and uncertainty
 
-**Agile SDLC Model**
+## Agile SDLC Model**
 In the agile methodology after every development iteration, the customer is able to see the result and understand if he is satisfied with it or he is not
 
 *PROS*
